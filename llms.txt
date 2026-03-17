@@ -22,7 +22,7 @@ Base URL: https://api.listclaw.ai
 ## Agent skill
 
 Download the full skill definition (request/response shapes, examples, MCP tool signatures):
-https://listclaw.ai/SKILL.md
+https://api.listclaw.ai/SKILL.md
 
 ## Key facts
 
